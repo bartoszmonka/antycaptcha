@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="All Automation Practice Tests" parallel="tests" thread-count="2">
+
+
+    <test name="Exercise1Test">
+        <parameter name="browser" value="FIREFOX"/>
+        <classes>
+            <class name="tests.Exercise1Tests"/>
+        </classes>
+    </test>
+
+    <test name="Exercise2Test">
+        <parameter name="browser" value="FIREFOX"/>
+        <classes>
+            <class name="tests.Exercise2Tests"/>
+        </classes>
+    </test>
+
+    <test name="Exercise3Test">
+        <parameter name="browser" value="FIREFOX"/>
+        <classes>
+            <class name="tests.Exercise3Tests"/>
+        </classes>
+    </test>
+
+    <test name="Exercise4Test">
+        <parameter name="browser" value="FIREFOX"/>
+        <classes>
+            <class name="tests.Exercise4Tests"/>
+        </classes>
+    </test>
+
+</suite>
