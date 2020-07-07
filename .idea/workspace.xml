@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="290cd5a1-332c-45fe-8206-3d3a8dd55f98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/antycaptcha.iml" beforeDir="false" afterPath="$PROJECT_DIR$/antycaptcha.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e66EIrFmHndqDGf5ObUOI6vVLm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="page" />
+      <recent name="tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\antycaptcha\antycaptcha\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Exercise4Tests">
+    <configuration name="C:/IdeaProjects/antycaptcha/antycaptcha/src/test/resources/all_tests_suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="antycaptcha" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/all_tests_suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise1Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="antycaptcha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Exercise1Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="antycaptcha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Exercise2Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise3Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="antycaptcha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Exercise3Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="antycaptcha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Exercise4Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Exercise4Tests" />
+        <item itemvalue="TestNG.Exercise1Tests" />
+        <item itemvalue="TestNG.C:/IdeaProjects/antycaptcha/antycaptcha/src/test/resources/all_tests_suite.xml" />
+        <item itemvalue="TestNG.Exercise3Tests" />
+        <item itemvalue="TestNG.Exercise2Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="290cd5a1-332c-45fe-8206-3d3a8dd55f98" name="Default Changelist" comment="" />
+      <created>1593629581559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593629581559</updated>
+      <workItem from="1593629584565" duration="115000" />
+      <workItem from="1593629762671" duration="9186000" />
+      <workItem from="1593639268983" duration="1620000" />
+      <workItem from="1593702834259" duration="57000" />
+      <workItem from="1593702922920" duration="324000" />
+      <workItem from="1593703256981" duration="1263000" />
+      <workItem from="1593978017473" duration="893000" />
+      <workItem from="1594019244413" duration="1647000" />
+      <workItem from="1594045685950" duration="718000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2060" y="277" key="#Project_Structure" timestamp="1593978052619">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2060" y="277" key="#Project_Structure/0.0.3440.1400@0.0.3440.1400" timestamp="1593978052619" />
+    <state x="2108" y="232" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593632084023">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2108" y="232" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1593632084023" />
+    <state x="1787" y="409" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593630575702">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1787" y="409" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1593630575702" />
+    <state x="1345" y="277" key="CommitChangelistDialog2" timestamp="1593639491728">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1345" y="277" key="CommitChangelistDialog2/0.0.3440.1400@0.0.3440.1400" timestamp="1593639491728" />
+    <state x="2155" y="432" key="FileChooserDialogImpl" timestamp="1593632777904">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2155" y="432" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1593632777904" />
+    <state width="1674" height="303" key="GridCell.Tab.0.bottom" timestamp="1593703284757">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="303" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1593703284757" />
+    <state width="1674" height="303" key="GridCell.Tab.0.center" timestamp="1593703284757">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="303" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1593703284757" />
+    <state width="1674" height="303" key="GridCell.Tab.0.left" timestamp="1593703284757">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="303" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1593703284757" />
+    <state width="1674" height="303" key="GridCell.Tab.0.right" timestamp="1593703284757">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1674" height="303" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1593703284757" />
+    <state x="1312" y="432" key="Vcs.Push.Dialog.v2" timestamp="1593640330143">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1312" y="432" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1593640330143" />
+    <state x="1370" y="514" key="new project wizard" timestamp="1593706885656">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1370" y="514" key="new project wizard/0.0.3440.1400@0.0.3440.1400" timestamp="1593706885656" />
+  </component>
+</project>
